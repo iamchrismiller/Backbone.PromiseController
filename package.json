@@ -1,0 +1,18 @@
+{
+  "name": "Backbone.PromiseController",
+  "version": "0.1.0",
+  "author": "Chris Miller <cmille142@gmail.com>",
+  "description": "A Simple Promise Based Controller For Backbone/Marionette Views",
+  "scripts": {
+    "build": "./node_modules/.bin/grunt build",
+    "test": "./node_modules/.bin/grunt jasmine"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-jshint": "~0.4.2",
+    "grunt-contrib-jasmine": "~0.5.1"
+  }
+}
