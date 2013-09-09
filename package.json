@@ -1,5 +1,5 @@
 {
-  "name": "Backbone.PromiseController",
+  "name": "backbone.promise-controller",
   "version": "0.1.0",
   "author": "Chris Miller <cmille142@gmail.com>",
   "description": "A Simple Promise Based Controller For Backbone/Marionette Views",
